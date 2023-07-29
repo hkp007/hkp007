@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hkp007.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Data Analytic.
-- 📫 How to reach me : mail me at @pansuriyaharsh123@gmail.com
+- 📫 How to reach me : pansuriyaharsh123@gmail.com
 
 <!---
 hkp007/hkp007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
