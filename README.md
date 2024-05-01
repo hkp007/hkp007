@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hkp007.
-- 👀 I’m interested in Data Science.
+- 👋 Hi, I’m @Harsh Pansuriya.
+- 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I’m currently learning Data Analytic.
 - 📫 How to reach me : pansuriyaharsh123@gmail.com
 
